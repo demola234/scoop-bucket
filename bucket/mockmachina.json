@@ -1,16 +1,16 @@
 {
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Mock HTTP APIs from contract files in your repository",
   "homepage": "https://github.com/demola234/tiny-tools/tree/main/mock_machina",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/demola234/tiny-tools/releases/download/mock_machina/v0.1.2/mockmachina_0.1.2_windows_amd64.zip",
-      "hash": "8552573e28cf58f51c3d8d8c28fad81ae5ae2fd3a6402861f75cdd9360f856b3"
+      "url": "https://github.com/demola234/tiny-tools/releases/download/mock_machina/v0.2.0/mockmachina_0.2.0_windows_amd64.zip",
+      "hash": "91e606bc68fced1282ae10a1bde1f4c082d4f2dab0e8384bc7c6c6f261ec1dbc"
     },
     "arm64": {
-      "url": "https://github.com/demola234/tiny-tools/releases/download/mock_machina/v0.1.2/mockmachina_0.1.2_windows_arm64.zip",
-      "hash": "8024a7384a7bbc570ed8cf2ac0e32c11efe1fb797c4e793a120f6c556eb89d71"
+      "url": "https://github.com/demola234/tiny-tools/releases/download/mock_machina/v0.2.0/mockmachina_0.2.0_windows_arm64.zip",
+      "hash": "12ceffd5d21530c70c053f7e972a73d65056944c452d6aa00627c2525536cffd"
     }
   },
   "bin": "mockmachina.exe"
